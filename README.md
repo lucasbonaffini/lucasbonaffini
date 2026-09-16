@@ -1,6 +1,13 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="👋" /> Hi, I'm Lucas</h1>
 
-### Builder & Continuous Learner
+<h3>
+  <img
+    src="https://media.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif"
+    width="32"
+    alt="Animated light bulb"
+  />
+  Builder & Continuous Learner
+</h3>
 
 **Software Engineer with 5+ years of experience**
 
@@ -8,7 +15,7 @@ Driven by curiosity and continuous improvement, I enjoy turning ideas into
 real-world solutions, exploring new technologies, and learning from every
 technical challenge.
 
-🎮 Outside of software development, gaming is one of my biggest passions.
+Outside of software development, gaming is one of my biggest passions.
 Games sparked my curiosity for technology and continue to influence the way
 I approach engineering: exploring systems, overcoming challenges, learning
 from every attempt, and always looking for the next level.
