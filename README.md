@@ -54,16 +54,6 @@ from every attempt, and always looking for the next level.
 
 ---
 
-## 🧩 Engineering Focus
-
-- Building scalable and maintainable backend services
-- Designing cloud-native and distributed systems
-- Developing and integrating microservices
-- Applying Clean Architecture and SOLID principles
-- Improving code quality through testing and refactoring
-
----
-
 ## 🎮 Player Profile
 
 ```text
