@@ -11,7 +11,7 @@
 
 **Software Engineer with 4+ years of experience**
 
-Driven by curiosity and continuous improvement, I enjoy turning ideas into
+Driven by curiosity and continuous improvement. I enjoy turning ideas into
 real-world solutions, exploring new technologies, and learning from every
 technical challenge.
 
