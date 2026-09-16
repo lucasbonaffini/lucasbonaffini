@@ -9,7 +9,7 @@
   Builder & Continuous Learner
 </h3>
 
-**Software Engineer with 5+ years of experience**
+**Software Engineer with 4+ years of experience**
 
 Driven by curiosity and continuous improvement, I enjoy turning ideas into
 real-world solutions, exploring new technologies, and learning from every
@@ -61,8 +61,6 @@ from every attempt, and always looking for the next level.
 - Developing and integrating microservices
 - Applying Clean Architecture and SOLID principles
 - Improving code quality through testing and refactoring
-- Solving complex technical and business challenges
-- Continuously learning through real-world experience
 
 ---
 
@@ -70,11 +68,11 @@ from every attempt, and always looking for the next level.
 
 ```text
 Class:        Software Engineer
-Experience:   5+ years
+Experience:   4+ years
 Main Quest:   Build reliable and scalable software
 Specialty:    Backend Engineering
 Environment:  Cloud-native systems
-Side Quest:   Gaming and continuous learning
+Side Quest:   Gaming and farming knowledge
 Current XP:   Always growing
 ```
 
