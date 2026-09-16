@@ -73,23 +73,6 @@ Current XP:   Always growing
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=lucasbonaffini&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Lucas's GitHub statistics"
-  >
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbonaffini&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most-used languages"
-  >
-</p>
-
----
-
 ## 📬 Let's Connect
 
 <p align="center">
