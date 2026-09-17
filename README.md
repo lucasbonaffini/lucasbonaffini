@@ -57,7 +57,7 @@ from every attempt, and always looking for the next level.
 ## 🎮 Player Profile
 
 ```text
-Class:        Software Engineer
+Class:        Warlock Software Engineer
 Experience:   4+ years
 Main Quest:   Build reliable and scalable software
 Specialty:    Backend Engineering
