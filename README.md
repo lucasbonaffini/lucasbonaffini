@@ -2,11 +2,11 @@
 
 <h3>
   <img
-    src="https://media.giphy.com/media/Lqo3UBlXeHwZDoebKX/giphy.gif"
-    width="32"
-    alt="Animated light bulb"
+    src="https://media.giphy.com/media/BwzNAdC0lLqKWOJl19/giphy.gif"
+    width="48"
+    alt="Animated wizard"
   />
-  Builder & Continuous Learner
+  Code Caster & Continuous Learner
 </h3>
 
 **Software Engineer with 4+ years of experience**
