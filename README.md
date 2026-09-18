@@ -1,13 +1,13 @@
+<img
+  align="right"
+  src="https://media.giphy.com/media/BwzNAdC0lLqKWOJl19/giphy.gif"
+  width="120"
+  alt="Animated wizard"
+/>
+
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="👋" /> Hi, I'm Lucas</h1>
 
-<h3>
-  <img
-    src="https://media.giphy.com/media/BwzNAdC0lLqKWOJl19/giphy.gif"
-    width="90"
-    alt="Animated wizard"
-  />
-  Code Caster & Continuous Learner
-</h3>
+### Code Caster & Continuous Learner
 
 **Software Engineer with 4+ years of experience**
 
