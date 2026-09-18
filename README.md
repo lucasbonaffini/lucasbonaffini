@@ -3,7 +3,7 @@
 <h3>
   <img
     src="https://media.giphy.com/media/BwzNAdC0lLqKWOJl19/giphy.gif"
-    width="48"
+    width="90"
     alt="Animated wizard"
   />
   Code Caster & Continuous Learner
