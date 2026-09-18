@@ -1,7 +1,7 @@
 <img
   align="right"
   src="https://media.giphy.com/media/BwzNAdC0lLqKWOJl19/giphy.gif"
-  width="120"
+  width="150"
   alt="Animated wizard"
 />
 
